@@ -1,0 +1,7 @@
+{
+    "require": {
+        "gregwar/captcha": "^1.1",
+        "illuminate/database": "^9.48",
+        "fakerphp/faker": "^1.21"
+    }
+}
